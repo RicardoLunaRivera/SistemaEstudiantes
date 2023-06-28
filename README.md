@@ -43,3 +43,8 @@ Los compones que conforman el patrón son:
 
 
 ![sistemaEstudiantes.PNG](src%2Fmain%2Fjava%2Forg%2Fexample%2Fimg%2FsistemaEstudiantes.PNG)
+
+
+>Esquema de la Base de Datos
+> 
+> [dbEstudiantes.sql](src%2Fmain%2Fjava%2Forg%2Fexample%2Fdb%2FdbEstudiantes.sql)
