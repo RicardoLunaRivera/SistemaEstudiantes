@@ -40,3 +40,6 @@ Los compones que conforman el patrón son:
 - **DataAccessObject:** representa una capa de acceso a datos que oculta la fuente y los detalles técnicos para recuperar los datos.
 - **TransferObject:** este es un objeto plano que implementa el patrón Data Transfer Object (DTO), el cual sirve para transmitir la información entre el DAO y el Business Service.
 - **DataSource:** representa de forma abstracta la fuente de datos, la cual puede ser una base de datos, Webservices, LDAP, archivos de texto, etc.
+
+
+![sistemaEstudiantes.PNG](src%2Fmain%2Fjava%2Forg%2Fexample%2Fimg%2FsistemaEstudiantes.PNG)
